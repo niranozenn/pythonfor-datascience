@@ -4,7 +4,7 @@
 # - NumPy
 # - Pandas
 # - Veri Görselleştirme: Matplotlib & Seaborn
-# - Gelişmiş Fonksiyonel Keşifçi Veri Analizi (Advanced Functional Exploratory Data Analysis)
+# - Gelişmiş Fonksiyonel Keşifçi Veri Analizi (Advanced Functional Exvvvvvploratory Data Analysis)
 
 #############################################
 # NUMPY
