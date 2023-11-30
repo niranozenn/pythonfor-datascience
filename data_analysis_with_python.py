@@ -1,14 +1,10 @@
 ###############################################
 # PYTHON İLE VERİ ANALİZİ (DATA ANALYSIS WITH PYTHON)
-###############################################
-# - NumPy
-# - Pandas
-# - Veri Görselleştirme: Matplotlib & Seaborn
-# - Gelişmiş Fonksiyonel Keşifçi Veri Analizi (Advanced Functional Exvvvvvploratory Data Analysis)
+
 
 #############################################
 # NUMPY
-#############################################
+#################################################
 
 # Neden NumPy? (Why Numpy?)
 # NumPy Array'i Oluşturmak (Creating Numpy Arrays)
