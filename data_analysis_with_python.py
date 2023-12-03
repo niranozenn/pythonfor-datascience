@@ -695,7 +695,7 @@ df = sns.load_dataset("flights")
 check_df(df)
 
 #############################################
-# 2. Kategorik Değişken Analizi (Analysis of Categorical Variables)
+# 2. Analysis of Categorical Variables
 #############################################
 import numpy as np
 import pandas as pd
