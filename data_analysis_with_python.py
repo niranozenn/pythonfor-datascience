@@ -502,7 +502,6 @@ pd.set_option('display.width', 500)
 
 #######################
 # plot
-#######################
 
 x = np.array([1, 8])
 y = np.array([0, 150])
